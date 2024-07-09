@@ -1,8 +1,6 @@
 ![A Computer Science student specializing in Artificial Intelligence](https://github.com/Adreet21/Adreet21/blob/main/Capture-2024-07-09-103933.png)
 
-
-### Hi, I'm Syed Shahmeer Rahman
-#### A 3rd-year computer science student at the University of Alberta. I'm interested in artificial intelligence and enjoy designing systems that solve real-world problems.
+#### I am a 3rd-year computer science student at the University of Alberta. I'm interested in artificial intelligence and enjoy designing systems that solve real-world problems.
 
 Skills: C / C++ / Python / CSS / HTML / MySQL / JavaScript / JAVA / MongoDB
 
