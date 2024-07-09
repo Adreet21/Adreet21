@@ -1,3 +1,3 @@
-## Hi, I'm Shahmeer
-#A Computer Science student specializing in
+## Hi, I'm Shahmeer<br>
+#A Computer Science student specializing in<br>
 #Artificial Intelligence
