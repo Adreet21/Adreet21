@@ -1,8 +1,8 @@
-### Hi there 👋, Hi, I'm Shahmeer
-#### A Computer Science student specializing in Artificial Intelligence
 ![A Computer Science student specializing in Artificial Intelligence](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Syed Shahmeer Rahman, a 3rd-year computer science student at the University of Alberta. I'm interested in artificial intelligence and enjoy designing systems that solve real-world problems.
+
+### Hi, I'm Syed Shahmeer Rahman
+#### A 3rd-year computer science student at the University of Alberta. I'm interested in artificial intelligence and enjoy designing systems that solve real-world problems.
 
 Skills: C / C++ / Python / CSS / HTML / MySQL / JavaScript / JAVA / MongoDB
 
