@@ -9,7 +9,7 @@ I am a 3rd-year computer science student at the University of Alberta. I'm inter
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,css,html,mongodb,c,mysql&theme=dark)](https://skillicons.dev)
 
 ##  Take a peek at my portfolio Website!
-![](https://www.shahmeer.xyz/)
+Link: https://www.shahmeer.xyz/
 
 
 
