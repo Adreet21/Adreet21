@@ -1,4 +1,4 @@
-![A Computer Science student specializing in Artificial Intelligence](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A Computer Science student specializing in Artificial Intelligence](https://github.com/Adreet21/Adreet21/blob/main/Capture-2024-07-09-103933.png)
 
 
 ### Hi, I'm Syed Shahmeer Rahman
