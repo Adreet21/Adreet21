@@ -41,6 +41,9 @@
 ##  Take a peek at my portfolio Website!
 Link: https://www.shahmeer.xyz/
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Adreet21&theme=github)
+
+
 Resume :
 [Syed Shahmeer Rahman.pdf](https://github.com/user-attachments/files/16581105/Syed.Shahmeer.Rahman.pdf)
 
