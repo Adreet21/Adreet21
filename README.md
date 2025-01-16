@@ -48,7 +48,7 @@ Resume :
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adreet21&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adreet21&show_icons=true&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adreet21&theme=algolia_icons=true)
 
 ---
 
