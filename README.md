@@ -49,3 +49,13 @@ Resume :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adreet21&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+![Visitors Count](https://profile-counter.glitch.me/Adreet21/count.svg)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adreet21&show_icons=true&hide_title=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adreet21)
+
+![GitHub Contribution Graph](https://github.com/Adreet21/github-contribution-grid-snake)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adreet21&theme=github)
