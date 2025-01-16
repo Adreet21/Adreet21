@@ -40,12 +40,7 @@
 
 ##  Take a peek at my portfolio Website!
 Link: https://www.shahmeer.xyz/
-
-
 Resume :
 [Syed Shahmeer Rahman.pdf](https://github.com/user-attachments/files/16581105/Syed.Shahmeer.Rahman.pdf)
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adreet21&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ---
